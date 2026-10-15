@@ -1,9 +1,5 @@
 <br>
 
-<p align="center">
-  <img src="assets/profile.png" width="140" alt="Mustafa Ceylan" />
-</p>
-
 <h1 align="center">Mustafa Ceylan</h1>
 
 <p align="center"><b>Software Engineer.</b></p>
